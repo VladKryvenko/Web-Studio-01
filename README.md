@@ -1,2 +1,2 @@
-# Web-Studio-01
+#goit-markup-hw-01
 https://vladkryvenko.github.io/Web-Studio-01/
